@@ -13,3 +13,8 @@ Lenguaje de programación utilizado: C#
 
 Librerías usadas: Preseleccionadas de Unity 
 
+
+https://user-images.githubusercontent.com/80603004/111054837-d5d04600-843d-11eb-96c5-ba34bd68adff.mov
+
+
+
